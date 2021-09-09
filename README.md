@@ -1,2 +1,1 @@
-# fluffy-dollop
-Rust double linked list
+Rust system programming
